@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840902340340",
+    "project_id": "rainbowgreen-c0893",
+    "storage_bucket": "rainbowgreen-c0893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840902340340:android:d2e0891818585be8b538a1",
+        "android_client_info": {
+          "package_name": "com.example.rainbowgreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840902340340-219lak86qvotua0ffr7o5piq08hua2nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GGSCK_TsQGNLPsjSffwjjCWUHboTR_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840902340340-219lak86qvotua0ffr7o5piq08hua2nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

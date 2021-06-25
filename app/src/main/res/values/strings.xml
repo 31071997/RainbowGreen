@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rainbow Green</string>
+    <string-array name="names">
+        <item>piyaraddi</item>
+        <item>foxtail</item>
+        <item>philanopsis</item>
+        <item>venda</item>
+    </string-array>
+</resources>
